@@ -7,3 +7,5 @@
 <h2 align ="center"> Hi 👋 I'm Ramin </h2>
 
 <p align ="center"> I 💟 the object oriented programming language 💻 </p>
+
+<p align ="center"> I am interested in the news of the technology  🎮 </p>
