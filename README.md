@@ -40,3 +40,6 @@
 <h4 align ="left"> 💻 Improve my object oriented programming knowledge </h4>
 <h4 align ="left"> ☕️ Work at Innsbruck Coffeeshop Company </h4>
 
+<h2 align ="left"> Favourite brands </h2>
+
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white) 
