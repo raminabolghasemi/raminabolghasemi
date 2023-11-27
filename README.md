@@ -23,3 +23,5 @@
 
 <a href="https://at.linkedin.com/in/ramin-abolghasemi-komleh-b32510295"> <img src="https://github.com/raminabolghasemi/raminabolghasemi/blob/main/image/icons8-linkedin-logo-34.png?raw=true"> </a>
 
+<h2 align ="left"> Most used languages </h2>
+<h3 align ="left"> Java | 70% </h3> <img src ="https://github.com/raminabolghasemi/raminabolghasemi/blob/main/image/bar.png?raw=true" height= "350px" width="16px">
