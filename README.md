@@ -18,3 +18,7 @@
 <h2 align ="left"> source-code editor, integrated development environment (IDE)</h2>
 
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
+
+<h2 align ="left"> ☎️ Contact me </h2>
+
+<a href="linkedin.com/in/ramin-abolghasemi-komleh-b32510295"> img src="![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)" </a>
