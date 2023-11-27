@@ -25,11 +25,15 @@
 
 <h2 align ="left"> Most used languages </h2>
 <h3 align ="left"> Java | 70% </h3> <img src ="https://github.com/raminabolghasemi/raminabolghasemi/blob/main/image/bar.png?raw=true" height= "16px" width="350px">
-
 <h3 align ="left"> Kotlin | 50% </h3> <img src ="https://github.com/raminabolghasemi/raminabolghasemi/blob/main/image/bar.png?raw=true" height= "16px" width="250px">
-
 <h3 align ="left"> HTML | 40% </h3> <img src ="https://github.com/raminabolghasemi/raminabolghasemi/blob/main/image/bar.png?raw=true" height= "16px" width="200px">
-
 <h3 align ="left"> CSS | 40% </h3> <img src ="https://github.com/raminabolghasemi/raminabolghasemi/blob/main/image/bar.png?raw=true" height= "16px" width="200px">
-
 <h3 align ="left"> Python | 40% </h3> <img src ="https://github.com/raminabolghasemi/raminabolghasemi/blob/main/image/bar.png?raw=true" height= "16px" width="200px">
+
+<h2 align ="left"> I am working on: </h2>
+
+<h4 align ="left"> 🎒 PhD student in Business Administration at University of Innsbruck </h4>
+<h4 align ="left"> 🖥 Professional learning of Java language </h4>
+<h4 align ="left"> 💻 Improve my object oriented programming knowledge </h4>
+<h4 align ="left"> ☕️ Work at Innsbruck Coffeeshop company </h4>
+
