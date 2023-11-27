@@ -6,7 +6,7 @@
 
 <h2 align ="center"> Hi 👋 I'm Ramin </h2>
 
-<p align ="center"> I 💟 the object oriented programming language 💻 I'm  interested to the technology news  🎮/p>
+<p align ="center"> I 💟 the object oriented programming language 💻 I'm  interested to the technology news  🎮</p>
 
 
 
@@ -38,5 +38,5 @@
 <h4 align ="left"> 🎒 PhD student in Business Administration at University of Innsbruck </h4>
 <h4 align ="left"> 🖥 Professional learning of Java language </h4>
 <h4 align ="left"> 💻 Improve my object oriented programming knowledge </h4>
-<h4 align ="left"> ☕️ Work at Innsbruck Coffeeshop company </h4>
+<h4 align ="left"> ☕️ Work at Innsbruck Coffeeshop Company </h4>
 
