@@ -21,4 +21,6 @@
 
 <h2 align ="left"> ☎️ Contact me </h2>
 
-<a href="linkedin.com/in/ramin-abolghasemi-komleh-b32510295"> "![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)" </a>
+<h2 align ="left"> ☎️ Contact me </h2>
+
+<a href="linkedin.com/in/ramin-abolghasemi-komleh-b32510295"> img src=!(https://github.com/raminabolghasemi/raminabolghasemi/assets/126275041/f21adc16-2cbd-45d7-8046-3a6b9c4ffd7a.svg)" </a>
