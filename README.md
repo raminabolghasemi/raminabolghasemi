@@ -33,15 +33,22 @@
 
 <a href="https://at.linkedin.com/in/ramin-abolghasemi-komleh-b32510295"> <img src="https://github.com/raminabolghasemi/raminabolghasemi/blob/main/image/icons8-linkedin-logo-34.png?raw=true"> </a>
 
-<h2 align ="left"> Most used languages </h2>
-<h3 align ="left"> Java | 70% </h3> <img src ="https://github.com/raminabolghasemi/raminabolghasemi/blob/main/image/bar.png?raw=true" height= "16px" width="350px">
-<h3 align ="left"> Kotlin | 50% </h3> <img src ="https://github.com/raminabolghasemi/raminabolghasemi/blob/main/image/bar.png?raw=true" height= "16px" width="250px">
-<h3 align ="left"> Python | 40% </h3> <img src ="https://github.com/raminabolghasemi/raminabolghasemi/blob/main/image/bar.png?raw=true" height= "16px" width="200px">
+<h2 align ="left"> Current used skills </h2>
+
+<h3 align ="left"> JavaScript | 70% </h3> <img src ="https://github.com/raminabolghasemi/raminabolghasemi/blob/main/image/bar.png?raw=true" height= "16px" width="350px">
+<h3 align ="left"> React | 50% </h3> <img src ="https://github.com/raminabolghasemi/raminabolghasemi/blob/main/image/bar.png?raw=true" height= "16px" width="250px">
+<h3 align ="left"> Angular | 40% </h3> <img src ="https://github.com/raminabolghasemi/raminabolghasemi/blob/main/image/bar.png?raw=true" height= "16px" width="200px">
+<h3 align ="left"> NodeJS | 40% </h3> <img src ="https://github.com/raminabolghasemi/raminabolghasemi/blob/main/image/bar.png?raw=true" height= "16px" width="200px">
 
 <h2 align ="left"> Markup language and style sheet </h2>
 
-<h3 align ="left"> HTML | 40% </h3> <img src ="https://github.com/raminabolghasemi/raminabolghasemi/blob/main/image/bar.png?raw=true" height= "16px" width="200px">
-<h3 align ="left"> CSS | 40% </h3> <img src ="https://github.com/raminabolghasemi/raminabolghasemi/blob/main/image/bar.png?raw=true" height= "16px" width="200px">
+<h3 align ="left"> HTML | 80% </h3> <img src ="https://github.com/raminabolghasemi/raminabolghasemi/blob/main/image/bar.png?raw=true" height= "16px" width="400px">
+<h3 align ="left"> CSS | 80% </h3> <img src ="https://github.com/raminabolghasemi/raminabolghasemi/blob/main/image/bar.png?raw=true" height= "16px" width="400px">
+
+<h2 align ="left"> Previous used skills </h2>
+
+<h3 align ="left"> Java | 40% </h3> <img src ="https://github.com/raminabolghasemi/raminabolghasemi/blob/main/image/bar.png?raw=true" height= "16px" width="200px">
+<h3 align ="left"> Python | 40% </h3> <img src ="https://github.com/raminabolghasemi/raminabolghasemi/blob/main/image/bar.png?raw=true" height= "16px" width="200px">
 
 
 <h2 align ="left"> I am working on: </h2>
