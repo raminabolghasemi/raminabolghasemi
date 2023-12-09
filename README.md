@@ -54,7 +54,7 @@
 <h2 align ="left"> I am working on: </h2>
 
 <h4 align ="left"> 🎒 PhD student in Business Administration at University of Innsbruck </h4>
-<h4 align ="left"> 🖥 Professional learning of Java language </h4>
+<h4 align ="left"> 🖥 Professional learning of JavaScript language </h4>
 <h4 align ="left"> 💻 Improve my object oriented programming knowledge </h4>
 
 
