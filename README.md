@@ -56,7 +56,7 @@
 <h4 align ="left"> 🎒 PhD student in Business Administration at University of Innsbruck </h4>
 <h4 align ="left"> 🖥 Professional learning of Java language </h4>
 <h4 align ="left"> 💻 Improve my object oriented programming knowledge </h4>
-<h4 align ="left"> ☕️ Work at Innsbruck Coffeeshop Company </h4>
+
 
 <h2 align ="left"> Favourite brands </h2>
 
