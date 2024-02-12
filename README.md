@@ -14,15 +14,13 @@
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 
 <h2 align ="left">  Prior Stack: </h2>
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 <h2 align ="left"> Source-code editor, Integrated development environment (IDE):</h2>
 
@@ -36,8 +34,8 @@
 <h2 align ="left"> Current used skills </h2>
 
 <h3 align ="left"> JavaScript | 70% </h3> <img src ="https://github.com/raminabolghasemi/raminabolghasemi/blob/main/image/bar.png?raw=true" height= "16px" width="350px">
-<h3 align ="left"> React | 50% </h3> <img src ="https://github.com/raminabolghasemi/raminabolghasemi/blob/main/image/bar.png?raw=true" height= "16px" width="250px">
-<h3 align ="left"> Angular | 40% </h3> <img src ="https://github.com/raminabolghasemi/raminabolghasemi/blob/main/image/bar.png?raw=true" height= "16px" width="200px">
+<h3 align ="left"> ReactJS | 50% </h3> <img src ="https://github.com/raminabolghasemi/raminabolghasemi/blob/main/image/bar.png?raw=true" height= "16px" width="250px">
+<h3 align ="left"> ReactNative | 50% </h3> <img src ="https://github.com/raminabolghasemi/raminabolghasemi/blob/main/image/bar.png?raw=true" height= "16px" width="250px">
 <h3 align ="left"> NodeJS | 40% </h3> <img src ="https://github.com/raminabolghasemi/raminabolghasemi/blob/main/image/bar.png?raw=true" height= "16px" width="200px">
 
 <h2 align ="left"> Markup language and style sheet </h2>
@@ -48,7 +46,6 @@
 <h2 align ="left"> Previous used skills </h2>
 
 <h3 align ="left"> Java | 40% </h3> <img src ="https://github.com/raminabolghasemi/raminabolghasemi/blob/main/image/bar.png?raw=true" height= "16px" width="200px">
-<h3 align ="left"> Python | 40% </h3> <img src ="https://github.com/raminabolghasemi/raminabolghasemi/blob/main/image/bar.png?raw=true" height= "16px" width="200px">
 
 
 <h2 align ="left"> I am working on: </h2>
