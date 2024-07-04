@@ -14,7 +14,6 @@
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 
@@ -35,8 +34,7 @@
 
 <h3 align ="left"> JavaScript | 70% </h3> <img src ="https://github.com/raminabolghasemi/raminabolghasemi/blob/main/image/bar.png?raw=true" height= "16px" width="350px">
 <h3 align ="left"> ReactJS | 50% </h3> <img src ="https://github.com/raminabolghasemi/raminabolghasemi/blob/main/image/bar.png?raw=true" height= "16px" width="250px">
-<h3 align ="left"> ReactNative | 50% </h3> <img src ="https://github.com/raminabolghasemi/raminabolghasemi/blob/main/image/bar.png?raw=true" height= "16px" width="250px">
-<h3 align ="left"> NodeJS | 40% </h3> <img src ="https://github.com/raminabolghasemi/raminabolghasemi/blob/main/image/bar.png?raw=true" height= "16px" width="200px">
+
 
 <h2 align ="left"> Markup language and style sheet </h2>
 
